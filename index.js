@@ -5,4 +5,4 @@ let course = "Matrimorphosis";
 
 console.log("Name:", name);
 console.log("Course:", course);
-console.log("Git is successfully connected to GitHub!");
+console.log("Git is successfully connected!");
