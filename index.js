@@ -1,6 +1,6 @@
 console.log("Welcome to Git Session 1!");
 
-let name = "Santhoshi";
+let name = "Dhayalan";
 let course = "Full Stack Development";
 
 console.log("Name:", name);
